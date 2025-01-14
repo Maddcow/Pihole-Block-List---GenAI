@@ -1,0 +1,79 @@
+
+# ChatGPT and OpenAI
+chat.openai.com
+platform.openai.com
+api.openai.com
+
+# GitHub Copilot
+copilot.github.com
+copilot-proxy.githubusercontent.com
+
+# You.com
+you.com
+api.you.com
+youchat.ai
+
+# QuillBot
+quillbot.com
+api.quillbot.com
+
+# Jasper AI
+jasper.ai
+app.jasper.ai
+
+# Writesonic
+writesonic.com
+app.writesonic.com
+
+# GrammarlyGO (AI Writing Assistant)
+grammarly.com
+go.grammarly.com
+
+# DeepL Write
+deepl.com
+write.deepl.com
+
+# Perplexity AI
+perplexity.ai
+
+# Character AI
+character.ai
+beta.character.ai
+
+# Anthropic Claude
+claude.ai
+api.anthropic.com
+
+# Hugging Face
+huggingface.co
+api.huggingface.co
+
+# Replika
+replika.ai
+api.replika.ai
+
+# Copy.ai
+copy.ai
+app.copy.ai
+
+# Chatsonic
+chatsonic.com
+api.chatsonic.com
+
+# Other AI Writing Tools
+sudowrite.com
+novelai.net
+caktus.ai
+ai-writer.com
+writesphere.ai
+
+# AI Image Generators
+stablediffusionweb.com
+deepdreamgenerator.com
+dallemini.com
+craiyon.com
+
+# Miscellaneous AI Services
+runwayml.com
+runwayml.ai
+openrouter.ai
